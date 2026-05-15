@@ -13,17 +13,19 @@ https://ollama.com/download
 
 Pull the LLaVA model:
 
- >>ollama pull llava
+    >ollama pull llava
 
 Start Ollama server:
 
-              >> ollama serve
+    > ollama serve
 
 
 3️⃣Run the Project
-▶️ open other terminal 
-python D_VS_C.py
+
+▶️ Open Other Terminal Tab
+
+     >python app.py
 
 Open in browser:
 
-http://localhost:5000
+   http://localhost:5000
