@@ -32,7 +32,3 @@ Runs completely offline on your local machine — no API key required.
 
 ---
 
-## 📦 Installation
-
-### 1️⃣ Clone Repository
-
