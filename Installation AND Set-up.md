@@ -1,6 +1,6 @@
 1️⃣ Install Dependencies
 
-pip install flask requests
+     pip install flask requests
 
 
 2️⃣ Install Ollama
