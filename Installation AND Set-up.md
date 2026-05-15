@@ -13,18 +13,18 @@ https://ollama.com/download
 
 Pull the LLaVA model:
 
-    >ollama pull llava
+    ollama pull llava
 
 Start Ollama server:
 
-    > ollama serve
+     ollama serve
 
 
 3️⃣Run the Project
 
 ▶️ Open Other Terminal Tab
 
-     >python app.py
+     python app.py
 
 Open in browser:
 
