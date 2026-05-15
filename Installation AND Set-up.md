@@ -13,7 +13,7 @@ https://ollama.com/download
 
 Pull the LLaVA model:
 
-              >>ollama pull llava
+ >>ollama pull llava
 
 Start Ollama server:
 
