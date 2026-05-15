@@ -29,44 +29,70 @@ Runs completely offline on your local machine — no API key required.
 - JavaScript
 - Requests Library
 
----📸 How It Works
-Upload an image
-Flask converts image into Base64
-Image is sent to Ollama LLaVA model
-AI analyzes the image
-Prediction is streamed live to the UI
-🧠 Example AI Response
+
+---
+
+## 📸 How It Works
+
+1. Upload an image  
+2. Flask converts image into Base64  
+3. Image is sent to Ollama LLaVA model  
+4. AI analyzes the image  
+5. Prediction is streamed live to the UI  
+
+---
+
+## 🧠 Example AI Response
+
+```text
 ANIMAL: dog
 CONFIDENCE: high
 EXPLANATION: The image shows a brown dog with floppy ears.
-📁 Supported File Types
-JPG
-JPEG
-PNG
-GIF
-WEBP
-🔥 Future Improvements
-Add multi-animal detection
-Improve confidence scoring
-Add drag-and-drop animations
-Docker deployment
-Image history feature
-Mobile optimization
-📚 Learning Outcomes
+```
+
+---
+
+## 📁 Supported File Types
+
+- JPG  
+- JPEG  
+- PNG  
+- GIF  
+- WEBP  
+
+---
+
+## 🔥 Future Improvements
+
+- Add multi-animal detection  
+- Improve confidence scoring  
+- Add drag-and-drop animations  
+- Docker deployment  
+- Image history feature  
+- Mobile optimization  
+
+---
+
+## 📚 Learning Outcomes
 
 This project helped me improve my understanding of:
 
-Flask backend development
-Local AI model integration
-Image handling in Python
-Streaming API responses
-Frontend & backend integration
-AI-powered web applications
-👨‍💻 Author
+- Flask backend development  
+- Local AI model integration  
+- Image handling in Python  
+- Streaming API responses  
+- Frontend & backend integration  
+- AI-powered web applications  
 
-Basil .b
+---
 
-⭐ Support
+## 👨‍💻 Author
+
+**Basil .b**
+
+---
+
+## ⭐ Support
 
 If you like this project, give it a star ⭐ on GitHub.
 
