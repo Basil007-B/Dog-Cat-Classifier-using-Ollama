@@ -29,24 +29,22 @@ Runs completely offline on your local machine — no API key required.
 - JavaScript
 - Requests Library
 
----
-📸 How It Works
+---📸 How It Works
 Upload an image
 Flask converts image into Base64
 Image is sent to Ollama LLaVA model
 AI analyzes the image
 Prediction is streamed live to the UI
 🧠 Example AI Response
----ANIMAL: dog
----CONFIDENCE: high
----EXPLANATION: The image shows a brown dog with floppy ears.-
-
->📁 Supported File Types
---JPG
---JPEG
---PNG
---GIF
---WEBP
+ANIMAL: dog
+CONFIDENCE: high
+EXPLANATION: The image shows a brown dog with floppy ears.
+📁 Supported File Types
+JPG
+JPEG
+PNG
+GIF
+WEBP
 🔥 Future Improvements
 Add multi-animal detection
 Improve confidence scoring
@@ -66,7 +64,7 @@ Frontend & backend integration
 AI-powered web applications
 👨‍💻 Author
 
-Basil B
+Basil .b
 
 ⭐ Support
 
