@@ -17,7 +17,7 @@ Pull the LLaVA model:
 
 Start Ollama server:
 
-     ollama serve
+    ollama serve
 
 
 3️⃣Run the Project
