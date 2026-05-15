@@ -1,6 +1,5 @@
 1️⃣ Install Dependencies
 
--
 pip install flask requests
 
 
